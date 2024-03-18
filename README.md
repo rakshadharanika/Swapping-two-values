@@ -18,6 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+Name : V RAKSHA DHARANIKA
+Reg No: 212223230167
+Dept :  AI&DS
+```
+x =input()
+y = input()
+temp = x
+x = y
+y = temp
+print('Swapped values are: {}'.format(x),format(y))
+```
+## OUTPUT:
+![Screenshot (83)](https://github.com/rakshadharanika/Swapping-two-values/assets/149348380/13aca8f3-be87-4dc1-b69d-70c2ec176cb0)
+
 
 
 
