@@ -18,9 +18,11 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 Name : V RAKSHA DHARANIKA
 Reg No: 212223230167
 Dept :  AI&DS
+```
 ```
 x =input()
 y = input()
